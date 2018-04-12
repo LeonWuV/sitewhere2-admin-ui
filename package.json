@@ -17,7 +17,7 @@
     "moment": "^2.21.0",
     "mqtt": "^2.16.0",
     "resolve-url-loader": "^2.2.1",
-    "sitewhere2-rest-api": "^2.0.1",
+    "sitewhere2-rest-api": "^2.0.2",
     "sockjs-client": "^1.1.4",
     "vee-validate": "^2.0.1",
     "vue": "^2.5.13",
